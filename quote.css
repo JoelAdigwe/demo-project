@@ -1,0 +1,40 @@
+/* .request-section{
+    background-image: url(./images/Ellipse\ 509.png);
+    background-repeat: no-repeat;
+    background-position: top 30px right 450px;
+}
+@media screen and(max-width:768px){
+    .request-section{
+        background-image: url(./images/Ellipse\ 509.png);
+        background-repeat: no-repeat;
+        background-position: bottom right;
+    }
+} */
+.contact-text {
+    color: rgba(0, 13, 47, 1);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    font-style: bold;
+    font-weight: 700;
+    line-height: 15px;
+    padding-bottom: 10px;
+    /* 62.5% */
+}
+
+/* .contact-img {
+
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: absolute;
+}  */
+/* 
+.img-div{
+    border: 1px white;
+    background-color: #fff;
+    border-width: 47px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+} */
